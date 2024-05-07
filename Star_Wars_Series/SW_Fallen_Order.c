@@ -24,9 +24,9 @@ Engine.CheatManager:DebugCapsuleSweep
 Engine.CheatManager:DebugCapsuleSweepCapture
 Engine.CheatManager:DebugCapsuleSweepChannel
 Engine.CheatManager:DebugCapsuleSweepChannel.Channel	~	Enum  /Script/Engine.ECollisionChannel
-[ Index:000007D1E] (Size:0x000B8) [UObject:000000000A9DCAC0] Function  /Script/Engine.CheatManager:DebugCapsuleSweepClear
-[ Index:000007D1F] (Size:0x000B8) [UObject:000000000A9DCA00] Function  /Script/Engine.CheatManager:DebugCapsuleSweepComplex
-[ Index:000007D20] (Size:0x00078) [UObject:000000000AA13000] BoolProperty  /Script/Engine.CheatManager:DebugCapsuleSweepComplex.bTraceComplex
-[ Index:000007D21] (Size:0x000B8) [UObject:000000000A9DC940] Function  /Script/Engine.CheatManager:DebugCapsuleSweepPawn
+Engine.CheatManager:DebugCapsuleSweepClear
+Engine.CheatManager:DebugCapsuleSweepComplex
+Engine.CheatManager:DebugCapsuleSweepComplex.bTraceComplex
+Engine.CheatManager:DebugCapsuleSweepPawn
 [ Index:000007D22] (Size:0x000B8) [UObject:000000000A9DC880] Function  /Script/Engine.CheatManager:DebugCapsuleSweepSize
 [ Index:000007D23] (Size:0x00070) [UObject:000000000A9E72B0] FloatProperty  /Script/Engine.CheatManager:DebugCapsuleSweepSize.Radius
