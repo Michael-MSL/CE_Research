@@ -19,3 +19,14 @@ Engine.CheatManager:CheatScript.ScriptName
 Engine.CheatManager:ClearLevelStreamingStatus
 Engine.CheatManager:ClearLevelStreamingStatus.PackageName
 Engine.CheatManager:DamageTarget
+[ Index:000007D19] (Size:0x00070) [UObject:000000000A9E7320] FloatProperty  /Script/Engine.CheatManager:DamageTarget.DamageAmount
+[ Index:000007D1A] (Size:0x000B8) [UObject:000000000A9DCD00] Function  /Script/Engine.CheatManager:DebugCapsuleSweep
+[ Index:000007D1B] (Size:0x000B8) [UObject:000000000A9DCC40] Function  /Script/Engine.CheatManager:DebugCapsuleSweepCapture
+[ Index:000007D1C] (Size:0x000B8) [UObject:000000000A9DCB80] Function  /Script/Engine.CheatManager:DebugCapsuleSweepChannel
+[ Index:000007D1D] (Size:0x00078) [UObject:000000000AA13080] ByteProperty  /Script/Engine.CheatManager:DebugCapsuleSweepChannel.Channel	~	Enum  /Script/Engine.ECollisionChannel
+[ Index:000007D1E] (Size:0x000B8) [UObject:000000000A9DCAC0] Function  /Script/Engine.CheatManager:DebugCapsuleSweepClear
+[ Index:000007D1F] (Size:0x000B8) [UObject:000000000A9DCA00] Function  /Script/Engine.CheatManager:DebugCapsuleSweepComplex
+[ Index:000007D20] (Size:0x00078) [UObject:000000000AA13000] BoolProperty  /Script/Engine.CheatManager:DebugCapsuleSweepComplex.bTraceComplex
+[ Index:000007D21] (Size:0x000B8) [UObject:000000000A9DC940] Function  /Script/Engine.CheatManager:DebugCapsuleSweepPawn
+[ Index:000007D22] (Size:0x000B8) [UObject:000000000A9DC880] Function  /Script/Engine.CheatManager:DebugCapsuleSweepSize
+[ Index:000007D23] (Size:0x00070) [UObject:000000000A9E72B0] FloatProperty  /Script/Engine.CheatManager:DebugCapsuleSweepSize.Radius
