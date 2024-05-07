@@ -1,1 +1,9 @@
-
+/Script/Engine.CheatManager:BugIt
+/Script/Engine.CheatManager:BugIt.ScreenShotDescription
+/Script/Engine.CheatManager:BugItGo
+/Script/Engine.CheatManager:BugItGo.Roll
+/Script/Engine.CheatManager:BugItGo.Yaw
+/Script/Engine.CheatManager:BugItGo.Pitch
+/Script/Engine.CheatManager:BugItGo.Z
+/Script/Engine.CheatManager:BugItGo.Y
+/Script/Engine.CheatManager:BugItGo.X
