@@ -28,5 +28,5 @@ Engine.CheatManager:DebugCapsuleSweepClear
 Engine.CheatManager:DebugCapsuleSweepComplex
 Engine.CheatManager:DebugCapsuleSweepComplex.bTraceComplex
 Engine.CheatManager:DebugCapsuleSweepPawn
-[ Index:000007D22] (Size:0x000B8) [UObject:000000000A9DC880] Function  /Script/Engine.CheatManager:DebugCapsuleSweepSize
-[ Index:000007D23] (Size:0x00070) [UObject:000000000A9E72B0] FloatProperty  /Script/Engine.CheatManager:DebugCapsuleSweepSize.Radius
+Engine.CheatManager:DebugCapsuleSweepSize
+Engine.CheatManager:DebugCapsuleSweepSize.Radius
