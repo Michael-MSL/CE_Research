@@ -35,9 +35,9 @@ Engine.CheatManager:DestroyAll
 Engine.CheatManager:DestroyAll.aClass	~	Class  /Script/CoreUObject.Class
 Engine.CheatManager:DestroyAllPawnsExceptTarget
 Engine.CheatManager:DestroyPawns
-[ Index:000007D29] (Size:0x00080) [UObject:000000000AA12F00] ClassProperty  /Script/Engine.CheatManager:DestroyPawns.aClass	~	Class  /Script/CoreUObject.Class
-[ Index:000007D2A] (Size:0x000B8) [UObject:000000000A9DF700] Function  /Script/Engine.CheatManager:DestroyServerStatReplicator
-[ Index:000007D2B] (Size:0x000B8) [UObject:000000000A9DF640] Function  /Script/Engine.CheatManager:DestroyTarget
+Engine.CheatManager:DestroyPawns.aClass	~	Class  /Script/CoreUObject.Class
+Engine.CheatManager:DestroyServerStatReplicator
+Engine.CheatManager:DestroyTarget
 [ Index:000007D2C] (Size:0x000B8) [UObject:000000000A9DF580] Function  /Script/Engine.CheatManager:DisableDebugCamera
 [ Index:000007D2D] (Size:0x000B8) [UObject:000000000A9DF4C0] Function  /Script/Engine.CheatManager:DumpChatState
 [ Index:000007D2E] (Size:0x000B8) [UObject:000000000A9DF400] Function  /Script/Engine.CheatManager:DumpLevelMemoryInfo
