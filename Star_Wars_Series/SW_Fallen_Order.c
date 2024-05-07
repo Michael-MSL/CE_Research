@@ -38,6 +38,6 @@ Engine.CheatManager:DestroyPawns
 Engine.CheatManager:DestroyPawns.aClass	~	Class  /Script/CoreUObject.Class
 Engine.CheatManager:DestroyServerStatReplicator
 Engine.CheatManager:DestroyTarget
-[ Index:000007D2C] (Size:0x000B8) [UObject:000000000A9DF580] Function  /Script/Engine.CheatManager:DisableDebugCamera
-[ Index:000007D2D] (Size:0x000B8) [UObject:000000000A9DF4C0] Function  /Script/Engine.CheatManager:DumpChatState
-[ Index:000007D2E] (Size:0x000B8) [UObject:000000000A9DF400] Function  /Script/Engine.CheatManager:DumpLevelMemoryInfo
+Engine.CheatManager:DisableDebugCamera
+Script/Engine.CheatManager:DumpChatState
+Engine.CheatManager:DumpLevelMemoryInfo
