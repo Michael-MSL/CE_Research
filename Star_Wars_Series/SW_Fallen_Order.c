@@ -64,3 +64,7 @@ Engine.CheatManager:ReceiveEndPlay
 Engine.CheatManager:ReceiveInitCheatManager
 Engine.CheatManager:ServerToggleAILogging
 Engine.CheatManager:SetMouseSensitivityToDefault
+Engine.CheatManager:SetStreamingFailsafeTestMode
+Engine.CheatManager:SetStreamingFailsafeTestMode.bEnable
+Engine.CheatManager:SetWorldOrigin
+Engine.CheatManager:Slomo
