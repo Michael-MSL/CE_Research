@@ -46,3 +46,9 @@ Engine.CheatManager:DumpOnlineSessionState
 Engine.CheatManager:DumpPartyState
 Engine.CheatManager:DumpStreamingLevelsMemoryInfo
 Engine.CheatManager:DumpVoiceMutingState
+Engine.CheatManager:EnableDebugCamera
+Engine.CheatManager:FlushLog
+Engine.CheatManager:Fly
+Engine.CheatManager:FreezeFrame
+Engine.CheatManager:FreezeFrame.Delay
+Engine.CheatManager:Ghost
