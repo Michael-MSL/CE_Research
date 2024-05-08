@@ -41,3 +41,8 @@ Engine.CheatManager:DestroyTarget
 Engine.CheatManager:DisableDebugCamera
 Engine.CheatManager:DumpChatState
 Engine.CheatManager:DumpLevelMemoryInfo
+Engine.CheatManager:DumpLevelMemoryInfo.LevelName
+Engine.CheatManager:DumpOnlineSessionState
+Engine.CheatManager:DumpPartyState
+Engine.CheatManager:DumpStreamingLevelsMemoryInfo
+Engine.CheatManager:DumpVoiceMutingState
