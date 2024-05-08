@@ -39,5 +39,5 @@ Engine.CheatManager:DestroyPawns.aClass	~	Class  /Script/CoreUObject.Class
 Engine.CheatManager:DestroyServerStatReplicator
 Engine.CheatManager:DestroyTarget
 Engine.CheatManager:DisableDebugCamera
-Script/Engine.CheatManager:DumpChatState
+Engine.CheatManager:DumpChatState
 Engine.CheatManager:DumpLevelMemoryInfo
