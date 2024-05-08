@@ -68,3 +68,7 @@ Engine.CheatManager:SetStreamingFailsafeTestMode
 Engine.CheatManager:SetStreamingFailsafeTestMode.bEnable
 Engine.CheatManager:SetWorldOrigin
 Engine.CheatManager:Slomo
+Engine.CheatManager:Slomo.NewTimeDilation
+Engine.CheatManager:SpawnServerStatReplicator
+Engine.CheatManager:StreamLevelIn
+Engine.CheatManager:StreamLevelIn.PackageName
