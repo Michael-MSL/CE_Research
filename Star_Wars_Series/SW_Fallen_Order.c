@@ -52,3 +52,7 @@ Engine.CheatManager:Fly
 Engine.CheatManager:FreezeFrame
 Engine.CheatManager:FreezeFrame.Delay
 Engine.CheatManager:Ghost
+Engine.CheatManager:God
+Engine.CheatManager:InvertMouse
+Engine.CheatManager:LogLoc
+Engine.CheatManager:LogStreamingLevels
