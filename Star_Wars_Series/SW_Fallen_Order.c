@@ -56,3 +56,7 @@ Engine.CheatManager:God
 Engine.CheatManager:InvertMouse
 Engine.CheatManager:LogLoc
 Engine.CheatManager:LogStreamingLevels
+Engine.CheatManager:OnlyLoadLevel
+Engine.CheatManager:OnlyLoadLevel.PackageName
+Engine.CheatManager:PauseLevelStreaming
+Engine.CheatManager:PlayersOnly
