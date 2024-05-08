@@ -60,3 +60,7 @@ Engine.CheatManager:OnlyLoadLevel
 Engine.CheatManager:OnlyLoadLevel.PackageName
 Engine.CheatManager:PauseLevelStreaming
 Engine.CheatManager:PlayersOnly
+Engine.CheatManager:ReceiveEndPlay
+Engine.CheatManager:ReceiveInitCheatManager
+Engine.CheatManager:ServerToggleAILogging
+Engine.CheatManager:SetMouseSensitivityToDefault
