@@ -72,3 +72,6 @@ Engine.CheatManager:Slomo.NewTimeDilation
 Engine.CheatManager:SpawnServerStatReplicator
 Engine.CheatManager:StreamLevelIn
 Engine.CheatManager:StreamLevelIn.PackageName
+Engine.CheatManager:StreamLevelOut
+Engine.CheatManager:StreamLevelOut.PackageName
+Engine.CheatManager:Summon
