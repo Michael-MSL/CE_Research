@@ -81,3 +81,7 @@ Engine.CheatManager:TestCollisionDistance
 Engine.CheatManager:ToggleAILogging
 Engine.CheatManager:ToggleDebugCamera
 Engine.CheatManager:ToggleServerStatReplicatorClientOverwrite
+Engine.CheatManager:ToggleServerStatReplicatorUpdateStatNet
+Engine.CheatManager:ToggleStreamingFailsafeTestMode
+Engine.CheatManager:UnpauseLevelStreaming
+Engine.CheatManager:UpdateSafeArea
