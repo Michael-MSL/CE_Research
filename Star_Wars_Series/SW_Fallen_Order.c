@@ -75,3 +75,6 @@ Engine.CheatManager:StreamLevelIn.PackageName
 Engine.CheatManager:StreamLevelOut
 Engine.CheatManager:StreamLevelOut.PackageName
 Engine.CheatManager:Summon
+Engine.CheatManager:Summon.ClassName
+Engine.CheatManager:Teleport
+Engine.CheatManager:TestCollisionDistance
