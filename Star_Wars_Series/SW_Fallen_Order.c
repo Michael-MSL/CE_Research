@@ -93,3 +93,9 @@ Engine.CheatManager:ViewPlayer
 Engine.CheatManager:ViewPlayer.S
 Engine.CheatManager:ViewSelf
 Engine.CheatManager:Walk
+Engine.CheatManager:DebugCameraControllerClass	~	Class  /Script/CoreUObject.Class
+Engine.CheatManager:DebugCameraControllerRef	~	Class  /Script/Engine.DebugCameraController
+SwGame.SwCheatManager:AIAwakeAll
+SwGame.SwCheatManager:AIGod
+SwGame.SwCheatManager:AIReturnHomeAndGoToSleepAll
+SwGame.SwCheatManager:AISleepAll
