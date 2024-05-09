@@ -89,3 +89,7 @@ Engine.CheatManager:ViewActor
 Engine.CheatManager:ViewActor.ActorName
 Engine.CheatManager:ViewClass
 Engine.CheatManager:ViewClass.DesiredClass	~	Class  /Script/CoreUObject.Class
+Engine.CheatManager:ViewPlayer
+Engine.CheatManager:ViewPlayer.S
+Engine.CheatManager:ViewSelf
+Engine.CheatManager:Walk
