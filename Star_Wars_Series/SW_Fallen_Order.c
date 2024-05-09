@@ -85,3 +85,7 @@ Engine.CheatManager:ToggleServerStatReplicatorUpdateStatNet
 Engine.CheatManager:ToggleStreamingFailsafeTestMode
 Engine.CheatManager:UnpauseLevelStreaming
 Engine.CheatManager:UpdateSafeArea
+Engine.CheatManager:ViewActor
+Engine.CheatManager:ViewActor.ActorName
+Engine.CheatManager:ViewClass
+Engine.CheatManager:ViewClass.DesiredClass	~	Class  /Script/CoreUObject.Class
