@@ -78,3 +78,6 @@ Engine.CheatManager:Summon
 Engine.CheatManager:Summon.ClassName
 Engine.CheatManager:Teleport
 Engine.CheatManager:TestCollisionDistance
+Engine.CheatManager:ToggleAILogging
+Engine.CheatManager:ToggleDebugCamera
+Engine.CheatManager:ToggleServerStatReplicatorClientOverwrite
