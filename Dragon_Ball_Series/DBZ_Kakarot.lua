@@ -15,3 +15,9 @@ Engine.CheatManager:BugItStringCreator.ViewLocation	~	ScriptStruct  /Script/Core
 Engine.CheatManager:ChangeSize
 Engine.CheatManager:ChangeSize.F
 Engine.CheatManager:CheatScript
+Engine.CheatManager:CheatScript.ScriptName
+Engine.CheatManager:DamageTarget
+Engine.CheatManager:DamageTarget.DamageAmount
+Engine.CheatManager:DebugCapsuleSweep
+Engine.CheatManager:DebugCapsuleSweepCapture
+Engine.CheatManager:DebugCapsuleSweepChannel
