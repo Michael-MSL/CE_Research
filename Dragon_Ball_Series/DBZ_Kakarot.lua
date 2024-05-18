@@ -27,3 +27,9 @@ Engine.CheatManager:DebugCapsuleSweepComplex
 Engine.CheatManager:DebugCapsuleSweepComplex.bTraceComplex
 Engine.CheatManager:DebugCapsuleSweepPawn
 Engine.CheatManager:DebugCapsuleSweepSize
+Engine.CheatManager:DebugCapsuleSweepSize.Radius
+Engine.CheatManager:DebugCapsuleSweepSize.HalfHeight
+Engine.CheatManager:DestroyAll
+Engine.CheatManager:DestroyAll.aClass	~	Class  /Script/CoreUObject.Class
+Engine.CheatManager:DestroyAllPawnsExceptTarget
+Engine.CheatManager:DestroyPawns
