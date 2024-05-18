@@ -99,3 +99,9 @@ SwGame.SwCheatManager:AIAwakeAll
 SwGame.SwCheatManager:AIGod
 SwGame.SwCheatManager:AIReturnHomeAndGoToSleepAll
 SwGame.SwCheatManager:AISleepAll
+SwGame.SwCheatManager:HubDebug
+SwGame.SwCheatManager:UnlockDatabank
+SwGame.SwCheatManager:DebugActorInstance	~	Class  /Script/Engine.Actor
+SwGame.SwCheatManager:PlayerControllerDebugComponentClasses
+SwGame.SwCheatManager:PlayerControllerDebugComponentClasses.PlayerControllerDebugComponentClasses	~	Class  /Script/CoreUObject.Class
+SwGame.SwCheatManager:DebugActorClass	~	Class  /Script/CoreUObject.Class
