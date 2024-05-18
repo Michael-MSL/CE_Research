@@ -21,3 +21,9 @@ Engine.CheatManager:DamageTarget.DamageAmount
 Engine.CheatManager:DebugCapsuleSweep
 Engine.CheatManager:DebugCapsuleSweepCapture
 Engine.CheatManager:DebugCapsuleSweepChannel
+Engine.CheatManager:DebugCapsuleSweepChannel.Channel	~	Enum  /Script/Engine.ECollisionChannel
+Engine.CheatManager:DebugCapsuleSweepClear
+Engine.CheatManager:DebugCapsuleSweepComplex
+Engine.CheatManager:DebugCapsuleSweepComplex.bTraceComplex
+Engine.CheatManager:DebugCapsuleSweepPawn
+Engine.CheatManager:DebugCapsuleSweepSize
