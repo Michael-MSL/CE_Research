@@ -51,3 +51,11 @@ Engine.CheatManager:God
 Engine.CheatManager:InvertMouse
 Engine.CheatManager:LogLoc
 Engine.CheatManager:NuccDynDrawCollision
+Engine.CheatManager:NuccDynDrawCollision.Command
+Engine.CheatManager:OnlyLoadLevel
+Engine.CheatManager:OnlyLoadLevel.PackageName
+Engine.CheatManager:PlayersOnly
+Engine.CheatManager:ReceiveEndPlay
+Engine.CheatManager:ReceiveInitCheatManager
+Engine.CheatManager:ServerToggleAILogging
+Engine.CheatManager:SetMouseSensitivityToDefault
