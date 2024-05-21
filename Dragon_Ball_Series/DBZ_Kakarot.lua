@@ -68,3 +68,13 @@ Engine.CheatManager:StreamLevelIn.PackageName
 Engine.CheatManager:StreamLevelOut
 Engine.CheatManager:StreamLevelOut.PackageName
 Engine.CheatManager:Summon
+Engine.CheatManager:Summon.ClassName
+Engine.CheatManager:Teleport
+Engine.CheatManager:TestCollisionDistance
+Engine.CheatManager:ToggleAILogging
+Engine.CheatManager:ToggleDebugCamera
+Engine.CheatManager:ToggleNuccDynDebug
+Engine.CheatManager:ToggleNuccDynEnable
+Engine.CheatManager:ToggleServerStatReplicatorClientOverwrite
+Engine.CheatManager:ToggleServerStatReplicatorUpdateStatNet
+Engine.CheatManager:UpdateSafeArea
