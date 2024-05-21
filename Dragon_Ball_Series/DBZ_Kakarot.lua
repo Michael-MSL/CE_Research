@@ -59,3 +59,12 @@ Engine.CheatManager:ReceiveEndPlay
 Engine.CheatManager:ReceiveInitCheatManager
 Engine.CheatManager:ServerToggleAILogging
 Engine.CheatManager:SetMouseSensitivityToDefault
+Engine.CheatManager:SetWorldOrigin
+Engine.CheatManager:Slomo
+Engine.CheatManager:Slomo.NewTimeDilation
+Engine.CheatManager:SpawnServerStatReplicator
+Engine.CheatManager:StreamLevelIn
+Engine.CheatManager:StreamLevelIn.PackageName
+Engine.CheatManager:StreamLevelOut
+Engine.CheatManager:StreamLevelOut.PackageName
+Engine.CheatManager:Summon
