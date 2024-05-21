@@ -33,3 +33,11 @@ Engine.CheatManager:DestroyAll
 Engine.CheatManager:DestroyAll.aClass	~	Class  /Script/CoreUObject.Class
 Engine.CheatManager:DestroyAllPawnsExceptTarget
 Engine.CheatManager:DestroyPawns
+Engine.CheatManager:DestroyPawns.aClass	~	Class  /Script/CoreUObject.Class
+Engine.CheatManager:DestroyServerStatReplicator
+Engine.CheatManager:DestroyTarget
+Engine.CheatManager:DisableDebugCamera
+Engine.CheatManager:DumpChatState
+Engine.CheatManager:DumpOnlineSessionState
+Engine.CheatManager:DumpPartyState
+Engine.CheatManager:DumpVoiceMutingState
