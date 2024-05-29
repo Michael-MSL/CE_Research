@@ -1,3 +1,5 @@
+// Credits to Sunbeam for all the appropriate tools and information to perform this information gathering.
+
 ActivateAllGadgets ( Function BmGame.RCheatManager.ActivateAllGadgets )
 AddScreenShake ( Function BmGame.RCheatManager.AddScreenShake )
 AddXP ( Function BmGame.RCheatManager.AddXP )
