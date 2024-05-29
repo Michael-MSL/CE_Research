@@ -1,1 +1,6 @@
-
+ActivateAllGadgets ( Function BmGame.RCheatManager.ActivateAllGadgets )
+AddScreenShake ( Function BmGame.RCheatManager.AddScreenShake )
+AddXP ( Function BmGame.RCheatManager.AddXP )
+AllAmmo ( Function Engine.CheatManager.AllAmmo )
+AllWeapons ( Function Engine.CheatManager.AllWeapons )
+Amphibious ( Function Engine.CheatManager.Amphibious )
