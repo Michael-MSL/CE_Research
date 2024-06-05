@@ -1,3 +1,5 @@
+## Credits: Sunbeam
+
 Ghost                                    ( FunctionEngine.CheatManager.Ghost )
 DebugAI                                  ( FunctionEngine.CheatManager.DebugAI )
 DebugPause                               ( FunctionEngine.CheatManager.DebugPause )
