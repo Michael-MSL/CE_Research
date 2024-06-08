@@ -1,4 +1,4 @@
-// ## Credits: Sunbeam
+// Credits: Sunbeam, tools & table to make this possible.
 
 Ghost                                    ( FunctionEngine.CheatManager.Ghost )
 DebugAI                                  ( FunctionEngine.CheatManager.DebugAI )
